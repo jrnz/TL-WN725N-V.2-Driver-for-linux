@@ -5,7 +5,7 @@
 - Ubuntu 12.10 (3.5.0-27-generic kernel)
 
 1. Download and unzip the archive containing the driver source 
-`tar xvf rtl8188eu.tar.gz`
++ `tar xvf rtl8188eu.tar.gz`
 2. Preparation for compilation
 Update distribution Make sure you have installed the packages of the type usual compilers gcc , g+ + , etc.. And packages of kernel sources:
 `sudo apt-get install linux-headers-'uname-r'`
