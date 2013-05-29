@@ -3,7 +3,7 @@
 - Ubuntu 10.04 (2.6.32-46-generic-pae kernel) 
 - Ubuntu 12.04 (kernel 3.5.0-17-generic ) 
 - Ubuntu 12.10 (3.5.0-27-generic kernel)
--
+
 1. Download and unzip the archive containing the driver source 
 `tar xvf rtl8188eu.tar.gz`
 2. Preparation for compilation
